@@ -1,6 +1,6 @@
 # Hi there, I'm Martin
 
-## I'm software developer trainee
+## I'm front-end developer
 🤓 Currently learning about blockchain development.<br/>
 💻 I've been learning about front-end & back-end development.<br/>
 👾 I love movies, music & videogames
@@ -8,7 +8,7 @@
 ### Languages & Tools:
 [<img alt="html icon" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="22px" title="HTML 5" />](https://www.w3schools.com/html/default.asp)
 [<img title="CSS" alt="css icon" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="22px"  />](https://www.w3schools.com/css/default.asp)
-[<img title="Javascript" src="https://cdn-icons.flaticon.com/png/512/4726/premium/4726005.png?token=exp=1637875420~hmac=df8fd218da44cbdcd1b72836c91b66e5" width="22px"/>](https://javascript.info/)
+[<img title="Javascript" src="https://cdn-icons.flaticon.com/png/512/4726/premium/4726005.png?token=exp=1638898744~hmac=bcb10119df248d31dc8a6e5ae48f7ccb" width="22px"/>](https://javascript.info/)
 [<img title="Reactjs" alt="react icon" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="22px"  />](https://reactjs.org/)
 [<img title="SASS" alt="sass icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="22px"  />](https://https://sass-lang.com/documentation)
 [<img title="Nodejs" alt="nodejs icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="22px"  />](https://nodejs.org/)
