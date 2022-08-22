@@ -1,8 +1,8 @@
 # Hi there, I'm Martin
 
 ## I'm front-end developer
-🤓 Currently learning about blockchain development.<br/>
-💻 I've been learning about front-end & back-end development.<br/>
+🤓 Currently learning more about backend development.<br/>
+💻 I've been learning about front & back development.<br/>
 👾 I love movies, music & video games
 
 ### Languages & Tools:
