@@ -2,8 +2,8 @@
 
 ## I'm front-end developer
 🤓 Currently learning more about backend development.<br/>
-💻 I've been learning about front & back development.<br/>
-👾 I love movies, music & video games
+💻 I've been learning about frontend.<br/>
+👾 I love movies, music & video games <3
 
 ### Languages & Tools:
 [<img alt="java icon" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="22px" title="Java" />](https://en.wikipedia.org/wiki/Java_(programming_language))
